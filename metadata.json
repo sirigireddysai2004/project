@@ -1,0 +1,7 @@
+{
+  "name": "FreshGuard AI",
+  "description": "Zero-waste grocery intelligence platform that predicts demand, prevents spoilage, and optimizes markdowns and inter-store transfers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
